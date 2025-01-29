@@ -6,3 +6,4 @@
 - ✅ Completed Assignment 4 (Arrays) on 25-01-2025
 - ✅ Completed Assignment 5 (Methods) on 28-01-2025
 - ✅ Completed Assignment 6 (String) on 29-01-2025
+- ✅ Completed Assignment 7 (Built-In function) on 29-01-2025
