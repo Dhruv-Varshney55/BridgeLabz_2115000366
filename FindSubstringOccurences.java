@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program6{
+public class FindSubstringOccurences{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a String: ");

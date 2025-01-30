@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program10{
+public class RemoveSpecificCharacter{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a String: ");
@@ -10,6 +10,13 @@ public class Program10{
     }
 	
     public static String removeCharacter(String str, char ch){
-        return str.replace(String.valueOf(ch), "");
+        char [] arr = new char[str.length()];
+        int idx = 0;
+        for(int i=0; i<str.length(); i++){
+            if(str.charAt(i) != ch){
+                arr[idx++] = str.charAt(i);
+            }
+        }
+        return new String(arr, 0, idx);
     }
 }
