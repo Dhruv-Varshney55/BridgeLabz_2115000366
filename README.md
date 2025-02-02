@@ -8,3 +8,4 @@
 - ✅ Completed Assignment 6 (String) on 29-01-2025
 - ✅ Completed Assignment 7 (Built-In function) on 29-01-2025
 - ✅ Completed Assignment 8 (Java class and object) on 31-01-2025
+- ✅ Completed Assignment 9 (Java constructor) on 2-02-2025
