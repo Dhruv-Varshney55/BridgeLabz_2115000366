@@ -10,3 +10,4 @@
 - ✅ Completed Assignment 8 (Java class and object) on 31-01-2025
 - ✅ Completed Assignment 9 (Java constructor) on 02-02-2025
 - ✅ Completed Assignment 10 (this, static, final key words and instanceof operator) on 04-02-2025
+- ✅ Completed Assignment 11 (Object oriented design principles ) on 06-02-2025
