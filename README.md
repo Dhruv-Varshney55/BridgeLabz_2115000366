@@ -17,3 +17,4 @@
 - ✅ Completed Assignment 15 (Stack , Queue, HashMap and Hashing Function) on 13-02-2025
 - ✅ Completed Assignment 16 (Sorting Algorithms) on 14-02-2025
 - ✅ Completed Assignment 17 (Linear and Binary Search) on 15-02-2025
+- ✅ Completed Assignment 18 (Algorithm's Runtime Analysis & Big-O Notation) on 17-02-2025
