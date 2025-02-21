@@ -21,3 +21,4 @@
 - ✅ Completed Assignment 19 (Java Generics) on 18-02-2025
 - ✅ Completed Assignment 20 (Collections) on 20-02-2025
 - ✅ Completed Assignment 21 (Java Streams) on 21-02-2025
+- ✅ Completed Assignment 22 (Exceptions) on 21-02-2025
