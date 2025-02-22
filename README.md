@@ -22,3 +22,4 @@
 - ✅ Completed Assignment 20 (Collections) on 20-02-2025
 - ✅ Completed Assignment 21 (Java Streams) on 21-02-2025
 - ✅ Completed Assignment 22 (Exceptions) on 21-02-2025
+- ✅ Completed Assignment 23 (Regex & JUnit) on 22-02-2025
