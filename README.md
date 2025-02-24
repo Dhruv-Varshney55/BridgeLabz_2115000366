@@ -23,3 +23,4 @@
 - ✅ Completed Assignment 21 (Java Streams) on 21-02-2025
 - ✅ Completed Assignment 22 (Exceptions) on 21-02-2025
 - ✅ Completed Assignment 23 (Regex & JUnit) on 22-02-2025
+- ✅ Completed Assignment 24 (Annotations and Reflection) on 24-02-2025
