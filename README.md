@@ -25,3 +25,4 @@
 - ✅ Completed Assignment 23 (Regex & JUnit) on 22-02-2025
 - ✅ Completed Assignment 24 (Annotations and Reflection) on 24-02-2025
 - ✅ Completed Assignment 25 (CSV Data Handling) on 25-02-2025
+- ✅ Completed Assignment 26 (JSON Data) on 26-02-2025
